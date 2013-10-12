@@ -13,7 +13,7 @@ msgstr ""
 
 #: ../../index.rst:9
 msgid "What is Salt Stack?"
-msgstr ""
+msgstr "SaltStack是什么?"
 
 #: ../../index.rst:11
 msgid ""
@@ -21,6 +21,7 @@ msgid ""
 "running in minutes, scalable enough to manage tens of thousands of servers, "
 "and fast enough to communicate with them in *seconds*."
 msgstr ""
+"salt是一个新的基础平台管理工具。只需花费数分钟即可运行起来, 扩展性足以支撑管理上万台服务器，数秒钟即可完成数据传递."
 
 #: ../../index.rst:15
 msgid ""
@@ -31,7 +32,7 @@ msgstr ""
 
 #: ../../index.rst:18
 msgid "Offline documentation"
-msgstr ""
+msgstr "离线文档"
 
 #: ../../index.rst:20
 msgid "Download a copy of the Salt documentation:"
